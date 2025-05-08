@@ -175,13 +175,13 @@
 // değişken ismi verirken ardışık sayıyla değişken VERMEYİZ!!!
 // örnek :::
 
-let name = 'Hasan';
-console.log(name);
-let name2 = name;
-console.log(name2);
-let name3 = name2;
-console.log(name3);
+// let name = 'Hasan';
+// console.log(name);
+// let name2 = name;
+// console.log(name2);
+// let name3 = name2;
+// console.log(name3);
 
 
-name = 'leo';
-console.log(name3);
+// name = 'leo';
+// console.log(name3);

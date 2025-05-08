@@ -1,0 +1,1 @@
+console.log(('Yaş farkınız ') + ((Number(prompt('Büyük olanın yaşını giriniz:'))) - (Number(prompt('Küçük olanın yaşını giriniz:')))) + ('\'dır.'))

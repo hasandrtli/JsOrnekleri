@@ -1,0 +1,1 @@
+console.log(('Merhaba ') + prompt('Adınız nedir?') + ' ' +prompt('Soyadınız nedir?')+ ' - ' + prompt('Cinsiyetiniz nedir?') + '. '  + prompt('Nerede Yaşıyosunuz?') +('\'da yaşıyor. ') + (2025 - (Number(prompt('Doğum yılınız nedir?')))) + ' yaşında.' );

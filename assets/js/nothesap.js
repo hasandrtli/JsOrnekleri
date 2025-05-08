@@ -1,0 +1,2 @@
+let ortalamaHesaplama = 3;
+console.log((('Not ortalaman:\[')) + (((Number(prompt('1. Vize Notunuz Nedir:'))) + (Number(prompt('2. Vize Notunuz Nedir:'))) + (Number(prompt('Final Notunuz Nedir:'))))/(ortalamaHesaplama)) + ('\]'))

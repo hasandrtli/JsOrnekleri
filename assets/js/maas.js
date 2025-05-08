@@ -1,0 +1,1 @@
+console.log(('Aylık Maaşınız: ') + ((Number(prompt('günlük aldığınız maaş nedir?'))) * (Number(prompt('Kaç gün çalışıyorsunuz?')))))

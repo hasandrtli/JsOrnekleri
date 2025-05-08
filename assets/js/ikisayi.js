@@ -1,0 +1,1 @@
+console.log(('İki sayı arasındaki fark : ') + ((Number(prompt('büyük sayıyı giriniz:'))) - (Number(prompt('küçük sayıyı giriniz:')))));
