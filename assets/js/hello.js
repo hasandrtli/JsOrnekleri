@@ -185,3 +185,76 @@
 
 // name = 'leo';
 // console.log(name3);
+
+
+// const tckn = 19216841321;
+// içeriğini değişmekten korumak için buraya yazarız.
+// 
+// tip kontrolü için typeof kullanırız
+// 
+// 
+// let age = 70;
+// let gender= 'Man';
+// let legalAge = 18;
+
+// console.log(age >= legalAge);
+// let isAdult = age <=legalAge;
+// console.log(isAdult)
+
+
+// let askereGidebilirMi = (age >= 18) && (gender== 'Man');
+// // 
+
+// let topluTasimaUcretsizMi = (age <= 6) || (age >=65);
+// console.log(topluTasimaUcretsizMi);
+
+// operatörler ve karşılaştırmalar 
+// büyüktür >  --- küçüktür <   ---- büyük eşit >= ---- küçük eşit <= ----- eşit mi ==  tip aynı mı === ---- ternary ? (sonra anlatılacak) 
+// // 
+
+// 
+// 
+// 
+// 
+// 
+
+// let inputAge = prompt('yaşınız:');
+// inputAge = Number(inputAge);
+// console.log(inputAge);
+
+
+// let isUserAdult = inputAge >= 18;
+// console.log(isUserAdult);
+
+
+
+
+
+
+
+// console.log(firstName + ' ' + lastName + ', ' + age + ' yaşındasın.');
+
+// bu eskide kaldı 
+
+// yerine backtick SIP geldi.
+
+//backtick --> win alt gr + (,) |||| mac opt + (,);
+// let firstName = prompt('Adınız nedir?');
+// let lastName = prompt('soyadınız nedir?');
+// let age = prompt('yaşınız nedir?');
+
+// console.log(`Merhaba ${firstName} ${lastName} ${age} yaşındasın.`);
+
+
+// let kdv= 1.20;
+// let hesaplanacakKdv = prompt('hesaplanacak tutarı giriniz:');
+// let toplam = kdv * hesaplanacakKdv;
+
+// console.log(`Merhaba ${toplam} TL'dir.`);
+
+
+
+console.clear
+
+
+
